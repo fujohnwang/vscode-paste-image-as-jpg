@@ -1,4 +1,4 @@
-﻿property fileTypes : {{JPEG picture, ".jpg"},{«class PNGf», ".png"}}
+﻿property fileTypes : {{JPEG picture, ".jpg"}}
 
 on run argv
 	if argv is {} then
